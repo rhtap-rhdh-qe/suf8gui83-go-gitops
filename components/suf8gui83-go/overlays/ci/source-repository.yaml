@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: suf8gui83-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/suf8gui83-go
